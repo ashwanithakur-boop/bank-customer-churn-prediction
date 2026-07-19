@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import json, os, io
 
 st.set_page_config(
-    page_title="Bank Churn Risk Calculator",
+    page_title="Bank Churn Risk Calculator | Ashwani Singh",
     page_icon="🏦",
     layout="wide"
 )
