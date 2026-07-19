@@ -61,7 +61,7 @@ with st.spinner("Loading model... please wait a few seconds"):
 st.markdown("""
 <div class="main-header">
   <h1>🏦 Bank Customer Churn Risk Intelligence System</h1>
-  <p>Predictive modelling for proactive customer retention | Gradient Boosting ML</p>
+  <p>By Ashwani Singh | Finance Analyst Intern | Unified Mentor | Gradient Boosting ML</p>
 </div>
 """, unsafe_allow_html=True)
 
